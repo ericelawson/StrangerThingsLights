@@ -46,7 +46,7 @@ void setup() {
   messages[0] = "run";
   messages[1] = "right here";
   messages[2] = "yes";
-  messages[3] = "kill trump";
+  messages[3] = "my sources say no";
   messages[4] = "no";
   messages[5] = "thats dumb";
   messages[6] = "what";
